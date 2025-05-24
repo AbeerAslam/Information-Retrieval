@@ -1,0 +1,1 @@
+comput of reject threshold use bay classifi reject , statist learn , bay classifi thi paper an algorithm effici comput of reject threshold bay classif is discuss . theoret and practic evalu of perform regard accuraci of numer comput uni and multimod high dimension probabl distribut is given . addit some observ regard dimension and number of sampl share .
